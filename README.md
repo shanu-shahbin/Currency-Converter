@@ -1,7 +1,13 @@
+
+![Firefly i need background image for my currency converter website 87312](https://github.com/shanu-shahbin/Currency-Converter/assets/107126924/b2d6b4a6-8a37-4c58-af19-85d6f221fc14)
+
+
 <br/>
 <p align="center">
   <a href="https://github.com/shanu-shahbin/Currency-Converter">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+<!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
+    ![Firefly i need background image for my currency converter website 46970](https://github.com/shanu-shahbin/Currency-Converter/assets/107126924/88b6f002-dbfe-4bd8-8200-efc3453e9a60)
+
   </a>
 
   <h3 align="center">This currency converter is a simple yet powerful tool that allows users to convert over 50 popular currencies with ease. </h3>
